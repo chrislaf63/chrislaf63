@@ -1,4 +1,4 @@
- #👋 Bonjour, je suis Christophe
+ # Bonjour, je suis Christophe
  ** Je suis actuellement en formation développeur web chez SIMPLON **
 
 J'ai déjà commencé à me former en autodidacte,
